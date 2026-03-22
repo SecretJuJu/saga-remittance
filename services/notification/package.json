@@ -1,0 +1,8 @@
+{
+    "name": "@saga-remittance/notification",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@saga-remittance/shared": "workspace:*"
+    }
+}
